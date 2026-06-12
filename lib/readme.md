@@ -30,6 +30,4 @@ lib/
 └── widgets/
     └── task_tile.dart
 
-## Author
 
-Ayush Raj
